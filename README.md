@@ -17,11 +17,11 @@ I am a detail-oriented QA candidate combining **5+ years of corporate experience
 
 ### Featured Portfolio Projects
 > *(Projects currently in development - links coming soon)*
-* **Project A:** Manual Functional Testing Suite (Web Application)
-* **Project B:** REST API Testing Suite with Postman
-* **Project C:** SQL Database Data Validation Scripts
-* **Project D:** Jira & Xray Test Management & Requirements Traceability
-* **Project E:** Python Data Validation Utility Script
+* Manual Functional Testing Suite (Web Application)
+* REST API Testing Suite with Postman
+* SQL Database Data Validation Scripts
+* Jira & Xray Test Management & Requirements Traceability
+* Python Data Validation Utility Script
 
 ---
 
